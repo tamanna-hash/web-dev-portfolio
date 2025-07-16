@@ -182,7 +182,7 @@ form textarea{
     display: none;
 }
 @media screen and (max-width:576px) {
- .skill-container, .footer-columns, .about-items, .banner, nav{
+ .skill-container, .footer-columns, .about-items, .banner, nav,.resume-container{
     flex-direction:column;
  }   
  .skill{
