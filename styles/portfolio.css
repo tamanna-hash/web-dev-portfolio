@@ -178,9 +178,6 @@ form textarea{
     padding-top: 30px;
     margin-right: 24px;
 }
-.hide{
-    display: none;
-}
 @media screen and (max-width:576px) {
  .skill-container, .footer-columns, .about-items, .banner, nav,.resume-container{
     flex-direction:column;
